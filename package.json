@@ -6,9 +6,9 @@
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
     "react-router-dom": "^5.1.2",
-    "react-scripts": "3.2.0",
+    "react-scripts": "5.0.1",
     "source-map-explorer": "^2.1.0",
-    "styled-jsx": "^3.2.2"
+    "styled-jsx": "^5.1.0"
   },
   "scripts": {
     "startHttps": "HTTPS=true npm start",
@@ -36,6 +36,6 @@
     ]
   },
   "devDependencies": {
-    "react-styleguidist": "^9.2.0"
+    "react-styleguidist": "^13.0.0"
   }
 }
